@@ -65,7 +65,7 @@ python agriculture_system.py
 
 > Add Crop → View Crops → Insights → Recommendations → Export
 
-*(Screenshots in `/docs`)*
+*(Screenshots in report )*
 
 ---
 
